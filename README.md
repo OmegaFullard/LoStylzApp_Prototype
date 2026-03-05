@@ -1,6 +1,10 @@
 # LoStylzApp Prototype
 
-LoStylzApp is a lightweight prototype for a styling and outfit-planning mobile/web app. This repository contains the initial UI and prototype features to explore outfit creation, style suggestions, and quick lookbooks.
+
+
+https://github.com/user-attachments/assets/593001a0-2dd6-4c55-8527-cf7d2fa68150
+
+
 
 ## Features
 
